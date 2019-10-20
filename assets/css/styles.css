@@ -13,17 +13,33 @@ body{
     text-decoration: none;
 }
 .b1{
+    display:flex;
+    justify-content:center;
+    align-items: center;
     position: absolute;
-    width: 24vw;
-    height:40vh;
+    width: 20vw;
+    height:30vh;
+    top:20vh;
+    left:27vw;
     color:white;
     text-decoration: none;
+    border: 1px solid red ;
+    border-radius: 2rem 2rem 2rem 2rem;
+}
+.bs1{
+
 }
 .b2{
     position:absolute;
-    width:24vw;
-    height:40vh;
-    left:24vh;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    width:20vw;
+    height:30vh;
+    left:50vw;
+    top: 20vh;
     color:white;
     text-decoration: none;
+    border:1px solid black;
+    border-radius: 2rem 2rem 2rem 2rem;
 }
