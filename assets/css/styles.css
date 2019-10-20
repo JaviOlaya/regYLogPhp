@@ -1,8 +1,11 @@
 body{
+    padding:0;
+    margin:0;
     display:flex;
     flex-direction: column;
     align-items: center;
     background-color: #FFB433;
+    font-family: 'Roboto', sans-serif;
 }
 .container{
     display:flex;
@@ -23,8 +26,10 @@ body{
     left:27vw;
     color:white;
     text-decoration: none;
-    border: 1px solid red ;
+    border: 2px solid red ;
+    
     border-radius: 2rem 2rem 2rem 2rem;
+    z-index: 1;
 }
 .bs1{
 
@@ -40,6 +45,7 @@ body{
     top: 20vh;
     color:white;
     text-decoration: none;
-    border:1px solid black;
+    order: 2px solid red ;
+   
     border-radius: 2rem 2rem 2rem 2rem;
 }

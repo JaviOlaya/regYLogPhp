@@ -8,7 +8,7 @@
     <title>Login&Register</title>
 </head>
 <body>
-    <h1>Bienvenido a mí aplicación</h1>
+    <h1>Bienvenido a mí aplicación con PHP y MySQL</h1>
     <h2>Inicia sesión o Regístrate</h2>
     <div class="container">
     <a class="b1" href="login.php"> <span class="bs1">Login</span></a>

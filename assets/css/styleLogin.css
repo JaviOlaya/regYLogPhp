@@ -1,0 +1,28 @@
+body{
+    padding:0;
+    margin:0;
+    display:flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FFB433;
+    font-family: 'Roboto', sans-serif;
+   
+}
+ .tit{
+     align-self: center;
+ }
+.container{
+    top:20vh;
+    position: relative;
+    display:flex;
+    
+    justify-content: center;
+    height: 5vh;
+    weight:10vw;
+ 
+}
+input[type="text"], input[type="password"]{
+    border-radius: 5%;
+    outline:none;
+    display:block;
+}
