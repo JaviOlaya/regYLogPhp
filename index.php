@@ -8,6 +8,7 @@
     <title>Login&Register</title>
 </head>
 <body>
+<?php require 'partials/header.php' ?>
     <h1>Bienvenido a mí aplicación con PHP y MySQL</h1>
     <h2>Inicia sesión o Regístrate</h2>
     <div class="container">
